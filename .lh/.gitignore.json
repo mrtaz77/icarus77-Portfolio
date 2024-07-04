@@ -1,0 +1,30 @@
+{
+    "sourceFile": ".gitignore",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 3,
+            "patches": [
+                {
+                    "date": 1720067839740,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1720067845167,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,44 @@\n+# Node.js\r\n+node_modules/\r\n+npm-debug.log\r\n+yarn-error.log\r\n+\r\n+# Logs\r\n+logs/\r\n+*.log\r\n+yarn-debug.log*\r\n+.yarn-integrity\r\n+\r\n+# Dependency directories\r\n+jspm_packages/\r\n+\r\n+# Optional npm cache directory\r\n+.npm\r\n+\r\n+# Optional REPL history\r\n+.node_repl_history\r\n+\r\n+# Environment Variables\r\n+.env\r\n+.env.local\r\n+.env.development.local\r\n+.env.test.local\r\n+.env.production.local\r\n+\r\n+# Mac OS\r\n+.DS_Store\r\n+\r\n+# Windows\r\n+Thumbs.db\r\n+ehthumbs.db\r\n+\r\n+# Miscellaneous\r\n+*.DS_Store\r\n+*.log\r\n+.idea\r\n+.vscode\r\n+*.suo\r\n+*.ntvs*\r\n+*.njsproj\r\n+*.sln\r\n+*.sw?\r\n"
+                },
+                {
+                    "date": 1720067857296,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,46 @@\n+\r\n+\r\n+# Node.js\r\n+node_modules/\r\n+npm-debug.log\r\n+yarn-error.log\r\n+\r\n+# Logs\r\n+logs/\r\n+*.log\r\n+yarn-debug.log*\r\n+.yarn-integrity\r\n+\r\n+# Dependency directories\r\n+jspm_packages/\r\n+\r\n+# Optional npm cache directory\r\n+.npm\r\n+\r\n+# Optional REPL history\r\n+.node_repl_history\r\n+\r\n+# Environment Variables\r\n+.env\r\n+.env.local\r\n+.env.development.local\r\n+.env.test.local\r\n+.env.production.local\r\n+\r\n+# Mac OS\r\n+.DS_Store\r\n+\r\n+# Windows\r\n+Thumbs.db\r\n+ehthumbs.db\r\n+\r\n+# Miscellaneous\r\n+*.DS_Store\r\n+*.log\r\n+.idea\r\n+.vscode\r\n+*.suo\r\n+*.ntvs*\r\n+*.njsproj\r\n+*.sln\r\n+*.sw?\r\n"
+                },
+                {
+                    "date": 1720067870942,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,48 @@\n+# Added\r\n+.lh/\r\n+.vscode/\r\n+\r\n+# Node.js\r\n+node_modules/\r\n+npm-debug.log\r\n+yarn-error.log\r\n+\r\n+# Logs\r\n+logs/\r\n+*.log\r\n+yarn-debug.log*\r\n+.yarn-integrity\r\n+\r\n+# Dependency directories\r\n+jspm_packages/\r\n+\r\n+# Optional npm cache directory\r\n+.npm\r\n+\r\n+# Optional REPL history\r\n+.node_repl_history\r\n+\r\n+# Environment Variables\r\n+.env\r\n+.env.local\r\n+.env.development.local\r\n+.env.test.local\r\n+.env.production.local\r\n+\r\n+# Mac OS\r\n+.DS_Store\r\n+\r\n+# Windows\r\n+Thumbs.db\r\n+ehthumbs.db\r\n+\r\n+# Miscellaneous\r\n+*.DS_Store\r\n+*.log\r\n+.idea\r\n+.vscode\r\n+*.suo\r\n+*.ntvs*\r\n+*.njsproj\r\n+*.sln\r\n+*.sw?\r\n"
+                }
+            ],
+            "date": 1720067839740,
+            "name": "Commit-0",
+            "content": "# Node.js\r\nnode_modules/\r\nnpm-debug.log\r\nyarn-error.log\r\n\r\n# Logs\r\nlogs/\r\n*.log\r\nyarn-debug.log*\r\n.yarn-integrity\r\n\r\n# Dependency directories\r\nnode_modules/\r\njspm_packages/\r\n\r\n# Optional npm cache directory\r\n.npm\r\n\r\n# Optional REPL history\r\n.node_repl_history\r\n\r\n# Environment Variables\r\n.env\r\n.env.local\r\n.env.development.local\r\n.env.test.local\r\n.env.production.local\r\n\r\n# Mac OS\r\n.DS_Store\r\n\r\n# Windows\r\nThumbs.db\r\nehthumbs.db\r\n\r\n# Miscellaneous\r\n*.DS_Store\r\n*.log\r\n.idea\r\n.vscode\r\n*.suo\r\n*.ntvs*\r\n*.njsproj\r\n*.sln\r\n*.sw?\r\n"
+        }
+    ]
+}
